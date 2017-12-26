@@ -23,7 +23,7 @@
 #include "usb/USBContext.h"
 #include "usb/USBDevice.h"
 
-#include "kodi_peripheral_utils.hpp"
+#include <kodi/kodi_peripheral_utils.hpp>
 
 #include <algorithm>
 #include <cstring>

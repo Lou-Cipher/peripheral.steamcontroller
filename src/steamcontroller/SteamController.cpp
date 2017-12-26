@@ -30,7 +30,7 @@
 #include "usb/USBInterfaceSetting.h"
 #include "usb/USBTransfer.h"
 
-#include <kodikodi_peripheral_utils.hpp>
+#include <kodi/kodi_peripheral_utils.hpp>
 #include "p8-platform/util/timeutils.h"
 
 #include <algorithm>
