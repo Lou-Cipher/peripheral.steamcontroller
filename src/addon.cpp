@@ -72,7 +72,7 @@
 
 #include "xbmc_addon_dll.h"
 #include "kodi_peripheral_dll.h"
-#include "kodi_peripheral_utils.hpp"
+#include <kodi/kodi_peripheral_utils.hpp>
 #include "libXBMC_addon.h"
 
 #include <algorithm>

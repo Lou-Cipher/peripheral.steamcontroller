@@ -23,7 +23,7 @@
 #include "USBThread.h"
 #include "util/Log.h"
 
-#include "kodi_peripheral_utils.hpp"
+#include <kodi/kodi_peripheral_utils.hpp>
 
 #include <algorithm>
 #include <libusb.h>
