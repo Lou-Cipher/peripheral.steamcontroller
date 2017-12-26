@@ -70,10 +70,10 @@
 
 #define PERIPHERAL_ADDON_JOYSTICKS
 
-#include "xbmc_addon_dll.h"
-#include "kodi_peripheral_dll.h"
+#include <kodi/xbmc_addon_dll.h>
+#include <kodi/kodi_peripheral_dll.h>
 #include <kodi/kodi_peripheral_utils.hpp>
-#include "libXBMC_addon.h"
+#include <kodi/libXBMC_addon.h>
 
 #include <algorithm>
 #include <iterator>
